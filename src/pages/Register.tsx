@@ -237,7 +237,7 @@ export default function Register() {
         </div>
 
         <p className="text-center text-slate-400 text-xs mt-5">
-          Gestão de Stock · Bira dos Namorados
+          Bira Gestão · Bira dos Namorados
         </p>
       </div>
     </div>

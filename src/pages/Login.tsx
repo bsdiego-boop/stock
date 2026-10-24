@@ -287,7 +287,7 @@ export default function Login() {
               onError={(e) => (e.currentTarget.style.display = 'none')}
             />
             <h1 className="text-2xl font-bold text-slate-800">Bira dos Namorados</h1>
-            <p className="text-slate-500 text-sm mt-1">Gestão de Stock</p>
+            <p className="text-slate-500 text-sm mt-1">Gestão</p>
           </div>
 
           <div className="p-8">
@@ -437,7 +437,7 @@ export default function Login() {
         </div>
 
         <p className="text-center text-slate-400 text-xs mt-6">
-          Gestão de Stock · Bira dos Namorados v1.0
+          Bira Gestão · Bira dos Namorados
         </p>
       </div>
     </div>
